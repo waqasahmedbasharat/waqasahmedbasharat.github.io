@@ -1,5 +1,3 @@
-Sure! Here's the README file for your AI Developer Portfolio on GitHub Pages:
-
 # 🚀 Welcome to Waqas Ahmed's AI Developer Portfolio! 🤖
 
 Hello there! 👋 I'm Waqas Ahmed, an AI developer with a passion for Data Science, Machine Learning, and Deep Learning. 📈🧠 I'm thrilled to showcase my exciting projects, all fueled by the power of Python 🐍, on this GitHub Pages site!
