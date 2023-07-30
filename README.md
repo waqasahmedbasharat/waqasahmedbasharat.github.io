@@ -18,7 +18,7 @@ I'm open to collaborations and eager to connect with fellow AI enthusiasts and p
 
 ## 🌐 Website:
 Check out my portfolio website to experience the magic of AI in action! 🌐
-[Link to your portfolio website](https://waqasahmedbasharat.github.io/)
+[Link to my portfolio website](https://waqasahmedbasharat.github.io/)
 
 Thank you for visiting my AI Developer Portfolio! Let's revolutionize the world with the endless possibilities of AI together. 🌍🤖 Stay curious, keep learning, and let the AI journey continue! 🚀📚
 
